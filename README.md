@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: @AzarathNetwork & @VerseRIP
+- 🔭 I’m currently working on: @CobraDotRIP
 - 💬 Ask me about coding minecraft plugins
 - 📫 How to reach me: KaboomB52#3422 on Discord, @KaboomB53 on Telegram.
 
-Im also currently in the process of getting demoted @VerseRIP
+- Past Projects: OPHCF & Verse
 
 www.youtube.com/KaboomB52
