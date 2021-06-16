@@ -7,3 +7,5 @@
 - Past Projects: OPHCF, Mars, Verse, Destonic.us
 
 www.youtube.com/KaboomB52
+###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaboomB52&show_icons=true&theme=cobalt)
