@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: Tempest/Azarath & ForestBukkit
 - 💬 Ask me about coding minecraft plugins
-- 📫 How to reach me: KaboomB52#3422 on Discord, @KaboomB53 on Telegram.
+- 📫 How to reach me: KaboomB52#6196 on Discord, @KaboomB53 on Telegram.
 
 - Current Projects: [ForestBukkit](https://github.com/ForestBukkit) & [Tempest](https://github.com/TempestWTF)
 - Past Projects: OPHCF, Mars, Verse, Destonic.us
