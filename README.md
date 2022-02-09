@@ -9,4 +9,5 @@
 
 www.youtube.com/KaboomB52
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaboomB52&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaboomB52&show_icons=true&theme=cobalt) <img src="https://www.freshports.org/images/notbug.gif">
+
