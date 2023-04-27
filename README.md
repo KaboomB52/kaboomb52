@@ -2,7 +2,13 @@
 
 <div align="center">
   <h1><strong>Hi there 👋, I'm KaboomB52!</strong></h1>
-<p>I'm a Founder at <a href="https://github.com/ForestBukkit">ForestBukkit</a>, currently developing the <a href="https://github.com/MythicalMC">MythicalMC Network</a></p>
+  
+  ![Nerd Shit](https://visitcount.itsvg.in/api?id=KaboomB52&icon=0&color=12)
+  
+</div>
+ 
+<div align="center">
+<p>I'm a Founder at <a href="https://github.com/ForestBukkit">ForestBukkit</a>, currently developing the <a href="https://github.com/MythicalMC">MythicalMC Network</a></p> 
 
 <p>My skills include: 🔒 Firewall Protection,  ☁️ Cloud APIs, and 🖥️ Software Development</p>
   
@@ -14,5 +20,4 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaboomB52&show_icons=true&theme=cobalt)
-
 </div>
